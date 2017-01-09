@@ -6,9 +6,20 @@ Omniauth Strategy for https://open.weixin.qq.com/
 
 ## Installation
 
+Add this line to your application's Gemfile:
+
 ```ruby
-gem "omniauth-wechat-oauth2", git: 'git@github.com:yangsr/omniauth-wechat-oauth2.git'
+gem 'bonio-omniauth-wechat-oauth2'
 ```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install bonio-omniauth-wechat-oauth2
+   
 
 ## Usage
 
